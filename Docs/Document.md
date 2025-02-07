@@ -46,3 +46,7 @@ The goal of the Auction React Project is to provide a user-friendly and efficien
 
 This documentation provides an overview, objectives, workflow, and technology stack of the Auction React Project. It can be extended to include API references or implementation details as needed.
 
+
+
+## Wireframe 
+<img src="/home/vishal/projects/auction_platform/Docs/Landing Page.png">
