@@ -71,7 +71,7 @@ function Home() {
             </h1>
             <br />
             <h1 className="bg-stone-300 py-5 px-7 inline-flex transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
-              Bid & Buy!
+              AuctionX
             </h1>
           </div>
           <div className="text-2xl text-center font-bold mt-16 pb-10">
