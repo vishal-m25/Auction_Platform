@@ -104,7 +104,7 @@ function Home() {
           </h1>
           <p className="text-lg font-semibold">
             <p>
-              Welcome to the Bid & Buy Platform! On our platform, you'll
+              Welcome to the AuctionX Platform! On our platform, you'll
               discover a world of exciting deals.
             </p>
             <br></br>
